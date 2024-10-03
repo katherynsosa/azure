@@ -1,0 +1,21 @@
+<html>
+<head>Microsoft Certified Azure Fundamentals</head>
+<body>
+
+</body>
+Los candidatos a esta certificación son profesionales tecnológicos que quieren demostrar sus conocimientos básicos de los conceptos de la nube en general y de Microsoft Azure en particular. Esta certificación es un punto de partida común en un recorrido hacia una carrera profesional en Azure.
+
+Puede describir los componentes arquitectónicos de Azure y los servicios de Azure, como:
+
+Proceso
+Redes
+Almacenamiento
+También pueden describir las características y herramientas para proteger, gobernar y administrar Azure.
+
+Debe tener aptitudes y experiencia trabajando con un área de TI, como:
+
+Administración de la infraestructura
+Administración de bases de datos
+Desarrollo de software
+
+</html>
